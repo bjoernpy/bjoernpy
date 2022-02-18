@@ -1,8 +1,9 @@
 ### Hi there, I'm Björn 👋
 
-## I'm a student and software developer :)
+## I'm a software engieneer :)
 - 👀 I’m interested in Software Development, IT-Security and Machine Learning
 - 🌱 I’m currently learning different JS-Frameworks, Python and more Machine Learning
+- 👨‍🎓 I have a bachelors degree in IT-Security and a masters degree in Systems Engineering
 - 👨‍💻 I’m looking to collaborate on an open source project, maybe something security related
 - 📫 How to reach me: [<img align="center" alt="bjoernpy | LinkedIn" width="22px" src="https://allfacebook.de/wp-content/uploads/2020/02/LI-In-Bug.png" />][linkedin]
 
