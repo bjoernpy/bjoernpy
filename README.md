@@ -8,7 +8,7 @@
 - 📫 How to reach me: [<img align="center" alt="bjoernpy | LinkedIn" width="22px" src="https://allfacebook.de/wp-content/uploads/2020/02/LI-In-Bug.png" />][linkedin]
 
 
-[linkedin]: https://www.linkedin.de/in/bjoern-hager/
+[linkedin]: https://www.linkedin.com/in/bjoern-hager
 
 ## My GitHub Stats
 
